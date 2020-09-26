@@ -90,16 +90,22 @@
     "projects": [
       {
         "title": "Covid-19 Tracker",
-        "category": "Covid-19 Tracker (Material UI, ReactJS, Firebase, Rest API)",
+        "category": "(Material UI, ReactJS, Firebase, Rest API)",
         "image": "covid19.jpg",
         "url": "https://covid19-tracker-7016e.web.app/"
+      },
+      {
+        "title": "Zoom-Clone",
+        "category": "(PeerJS, NodeJS , ExpressJS, UUID library, Socket.IO, Heroku)",
+        "image": "zoom-clone.jpg",
+        "url": "https://zoom-clone-dk.herokuapp.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Thank you for your team work and agility, responding swiftly to the many changes and challenges from this project. I really appreciate the extra effort put in by you.",
+        "text": "Thank you for your team work and agility, responding swiftly to the many changes and challenges. I really appreciate the extra effort put in by you.",
         "user": "Jill Shuttner"
       }
     ]
