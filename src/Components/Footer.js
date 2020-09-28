@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
+import './footer.css';
 
 class Footer extends Component {
   render() {
 
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+        return <li key={network.name}><div className="pop"><a href={network.url}><i className={network.className } id="icon"></i></a></div></li>
       })
     }
 
@@ -19,7 +20,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by Deepank Kartikey ♥️</li>
+            <li>Made with love by Deepank Kartikey ♥️</li>
            </ul>
 
            <ul className="copyright">
