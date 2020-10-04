@@ -4,7 +4,7 @@
     "occupation": "Software Engineer @ACI",
     "description": "Full Stack Java/JS Developer, Fitness Enthusiast.",
     "image": "dk.jpg",
-    "bio": "My name is Deepank, I'm a Full Stack Developer. Currently I'm working at ACI Worldwide INC. ",
+    "bio": "I am an athlete at heart, with a traveller spirit, and a passion for developing things. After completing my BTech from VIT University, Vellore in 2018, I joined my first development job in the same year to kick off my career. I was hired as a Software Engineer by ACI Worldwide INC, where I still work today. Since beginning my career there, I have been given the opportunities to work with different development teams on various technologies. I am an Oracle Java Certified Associate.",
     "contactmessage": "Get in touch with me to learn more.",
     "email": "deepankkartikey@gmail.com",
     "phone": "+91 - 8851 849 428",
@@ -14,8 +14,8 @@
       "state": "Delhi",
       "zip": "110089"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://github.com/deepank120896/MyFiles/raw/master/Resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -46,7 +46,7 @@
         "school": "Vellore Institute Of Technology",
         "degree": "BTech. in Information Technology",
         "graduated": "July 2018",
-        "description": "Graduated with Distinction"
+        "description": "During my Bachelors, I achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for consistency and hardwork, and found that I have a knack for understanding complex algorithms. During these days I was Member of Technical Staff at IEEE RAS. I also did volunteering work with an NGO (Anokha)."
       }
     ],
     "work": [
@@ -54,7 +54,7 @@
         "company": "ACI Worldwide INC",
         "title": "Software Engineer",
         "years": "July 2018 - Present",
-        "description": "Developing enhancements and debug/resolve issues."
+        "description": "For most of my time at ACI Worlwide INC, I have worked as a Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of couple of products. I have worked with their legacy V4 Application, as well as API enhancements for a new product. More recently, I have been given the opportunity to solely work on the customizations specific to various billers/client UI for which appreciations have already started coming in."
       },
       {
         "company": "ACI Worldwide INC",
@@ -66,23 +66,27 @@
     "skills": [
       {
         "name": "Java",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "80%"
+        "level": "80%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/java.jpg",
+        "desc": ""
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/git.jpg",
+        "desc": ""
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "React",
+        "level": "50%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/react.jpg",
+        "desc": ""
       },
       {
         "name": "SQL",
-        "level": "70%"
+        "level": "60%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/sql.png",
+        "desc": ""
       }
     ]
   },
@@ -92,13 +96,19 @@
         "title": "Covid-19 Tracker",
         "category": "(Material UI, ReactJS, Firebase, Rest API)",
         "image": "covid19.jpg",
-        "url": "https://covid19-tracker-7016e.web.app/"
+        "url": "https://github.com/deepank120896/Covid-19-Dashboard"
       },
       {
         "title": "Zoom-Clone",
         "category": "(PeerJS, NodeJS , ExpressJS, UUID library, Socket.IO, Heroku)",
         "image": "zoom-clone.jpg",
-        "url": "https://zoom-clone-dk.herokuapp.com/"
+        "url": "https://github.com/deepank120896/Zoom-Clone"
+      },
+      {
+        "title": "Vehicle Routing Problem",
+        "category": "(Java, Genetic Algorithms, Applet)",
+        "image": "vehicle-routing.jpg",
+        "url": "https://www.researchgate.net/publication/342282853_Transportation_Service_System_for_Grocery_Kart_using_Genetic_Algorithm"
       }
     ]
   },
