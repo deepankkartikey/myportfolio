@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Deepank Kartikey",
+    "occupation": "Software Engineer @ACI",
+    "description": "Full Stack Java/JS Developer, Fitness Enthusiast.",
+    "image": "dk.jpg",
+    "bio": "I am an athlete at heart, with a traveller spirit, and a passion for developing things. After completing my BTech from VIT University, Vellore in 2018, I joined my first development job in the same year to kick off my career. I was hired as a Software Engineer by ACI Worldwide INC, where I still work today. Since beginning my career there, I have been given the opportunities to work with different development teams on various technologies. I am an Oracle Java Certified Associate.",
+    "contactmessage": "Get in touch with me to learn more.",
+    "email": "deepankkartikey@gmail.com",
+    "phone": "+91 - 8851 849 428",
+    "address": {
+      "street": "B-4/72 Sector-18",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110089"
+    },
+    "website": "",
+    "resumedownload": "https://github.com/deepank120896/MyFiles/raw/master/Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/31kartik",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deepankkartikey/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/fitterdeepank/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/deepank120896",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Vellore Institute Of Technology",
+        "degree": "BTech. in Information Technology",
+        "graduated": "July 2018",
+        "description": "During my Bachelors, I achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for consistency and hardwork, and found that I have a knack for understanding complex algorithms. During these days I was Member of Technical Staff at IEEE RAS. I also did volunteering work with an NGO (Anokha)."
+      }
+    ],
+    "work": [
+      {
+        "company": "ACI Worldwide INC",
+        "title": "Software Engineer",
+        "years": "July 2018 - Present",
+        "description": "For most of my time at ACI Worlwide INC, I have worked as a Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of couple of products. I have worked with their legacy V4 Application, as well as API enhancements for a new product. More recently, I have been given the opportunity to solely work on the customizations specific to various billers/client UI for which appreciations have already started coming in."
+      },
+      {
+        "company": "ACI Worldwide INC",
+        "title": "Intern",
+        "years": "January 2018 - July 2018",
+        "description": "Developed Portal for Project Managers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%",
+        "path": "skill/java.jpg",
+        "desc": ""
+      },
+      {
+        "name": "Git",
+        "level": "80%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/git.jpg",
+        "desc": ""
+      },
+      {
+        "name": "React",
+        "level": "50%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/react.jpg",
+        "desc": ""
+      },
+      {
+        "name": "SQL",
+        "level": "60%",
+        "path": "C:/Users/kartikeyd/Desktop/S/Portfolio/public/images/skill/sql.png",
+        "desc": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker",
+        "category": "(Material UI, ReactJS, Firebase, Rest API)",
+        "image": "covid19.jpg",
+        "url": "https://github.com/deepank120896/Covid-19-Dashboard"
+      },
+      {
+        "title": "Zoom-Clone",
+        "category": "(PeerJS, NodeJS , ExpressJS, UUID library, Socket.IO, Heroku)",
+        "image": "zoom-clone.jpg",
+        "url": "https://github.com/deepank120896/Zoom-Clone"
+      },
+      {
+        "title": "Vehicle Routing Problem",
+        "category": "(Java, Genetic Algorithms, Applet)",
+        "image": "vehicle-routing.jpg",
+        "url": "https://www.researchgate.net/publication/342282853_Transportation_Service_System_for_Grocery_Kart_using_Genetic_Algorithm"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Thank you for your team work and agility, responding swiftly to the many changes and challenges. I really appreciate the extra effort put in by you.",
+        "user": "Jill Shuttner"
+      },
+      {
+        "text": "Big shout out and a huge thank you for the proactive nature and additional weekend support extended in completing time sensitive client projects this year. This year your contribution for the high priority projects, migration projects from different platforms and high revenue generating projects for Billers group is greatly appreciated. ",
+        "user": "Rama Gandikota"
+      }
+    ]
+  }
+}
